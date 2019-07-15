@@ -1,1 +1,1 @@
-# startuo
+# startup
